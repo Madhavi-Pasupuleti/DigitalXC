@@ -13,6 +13,6 @@ A company is organizing a Secret Santa event. Employees should be assigned a sec
 This program reads employee data from a CSV file, assigns secret children, and outputs the assignments in another CSV file.
 
 Installation
-git clone https://github.com/Madhavi-Pasupuleti/DigitalXC.git
-cd DigitalXC
-npm start
+- git clone https://github.com/Madhavi-Pasupuleti/DigitalXC.git
+- cd DigitalXC
+- npm start
